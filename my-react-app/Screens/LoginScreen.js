@@ -1,4 +1,4 @@
-// her importeres masse gøyalt !!!
+// her importeres ting og tang
 
 import { useNavigation } from "@react-navigation/native";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
@@ -14,6 +14,7 @@ import { auth } from '../firebase'
 const LoginScreen = () => {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
+  console.log("heihei")
 
   const navigation = useNavigation()
 
@@ -87,7 +88,6 @@ const handleLogin =async (e) => {
 };
 
 //
-
 
 
 //
