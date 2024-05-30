@@ -16,6 +16,6 @@ Designet i bildene som er vist ovenfor har jeg ikke fått til å gjøre i koden 
 
 > Du kan selvfølgelig åpne koden selv og registrere deg allerede nå, men blir kanskje bedre å vente til den kobles opp til min VM!🤗
 
-Akkurat nå er det bare to skjermer i appen min som du kan navigere mellom, LoginScreen og HomeScreen. På vår LoginScreen vil du se
+Akkurat nå er det bare to skjermer i appen min som du kan navigere mellom, LoginScreen og HomeScreen. På vår LoginScreen vil du se to knapper, login og register. Med Firebase blir akkurat disse to tingene veldig lett å gjøre. Firebase gjør det nemlig super lett å holde styr på all user-dataen, de har bra authentication, en sikker og enkel måte fpr brukere å logge inn på, alt er veldig automatisk, og de har innebygde funksjoner som f.eks signInWtihEmailAndPassword. 
 
 
